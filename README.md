@@ -2,7 +2,7 @@
 
 [![Mark Jansen's GitHub Stats's GitHub stats](https://github-readme-stats.vercel.app/api?username=learn-more&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/learn_more?style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/learn_more?style=flat-square)](https://twitter.com/learn_more)
 
 <!--
 **learn-more/learn-more** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
