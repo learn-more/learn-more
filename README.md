@@ -1,4 +1,10 @@
 
+## 🏆 Github Profile Trophy
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=learn-more&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 [![Mark Jansen's GitHub Stats's GitHub stats](https://github-readme-stats.vercel.app/api?username=learn-more&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
